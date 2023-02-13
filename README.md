@@ -13,14 +13,12 @@
     
 </br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasLourenco&theme=dark&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCGabriel&theme=dark&layout=compact">
   
 </div>
 
 
-<div>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/DevCGabriel/DevCGabriel">  
-</div>
+
 
 
 
